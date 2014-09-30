@@ -7,7 +7,7 @@ int main ( int argc, char** argv )
 	long long y_0 = 0;
 	if (argc < 2)
 	{
-		printf("Please supply N to find hte nth Pell's EQ solution for x^2 - 2y^2\n");
+		printf("Please supply N to find the nth Pell's EQ solution for x^2 - 2y^2\n");
 		return 1;
 	}
 
